@@ -23,12 +23,12 @@ public class UserServiceImpl implements UserService {
 
 	@Override
 	public UserDto updateUser(UserDto user, Integer UserId) {
+		String about = user.getAbout();
 		return null;
 	}
 
 	@Override
 	public UserDto getUserById(Integer userId) {
-		// TODO Auto-generated method stub
 		return null;
 	}
 
