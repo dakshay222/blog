@@ -23,7 +23,6 @@ public class UserServiceImpl implements UserService {
 
 	@Override
 	public UserDto updateUser(UserDto user, Integer UserId) {
-		// TODO Auto-generated method stub
 		return null;
 	}
 
